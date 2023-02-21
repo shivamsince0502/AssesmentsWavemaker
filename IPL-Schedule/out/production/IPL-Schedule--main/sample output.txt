@@ -1,0 +1,213 @@
+Ground Registration Starts
+Give the ground details you want to register. !
+Ground Id and Ground Name is required
+Ground Id.!
+1
+Ground Name.!
+wankhede
+Ground Added succesfully
+If you are done with ground registering press 0.
+2
+Ground Id.!
+2
+Ground Name.!
+Chinna Swami
+Ground Added succesfully
+If you are done with ground registering press 0.
+3
+Ground Id.!
+3
+Ground Name.!
+Eden Gardens
+Ground Added succesfully
+If you are done with ground registering press 0.
+4
+Ground Id.!
+4
+Ground Name.!
+Arun Jateliy Stadium
+Ground Added succesfully
+If you are done with ground registering press 0.
+0
+Grounds added succesfully
+Team Register : 
+Welcome to the team registration
+Every team has its team id team name and a home ground please give each info asked!
+Ground: Ground id 1 Ground Name wankhede
+Ground: Ground id 2 Ground Name Chinna Swami
+Ground: Ground id 3 Ground Name Eden Gardens
+Ground: Ground id 4 Ground Name Arun Jateliy Stadium
+Give id of team? 
+1
+Give name of team? 
+Mumbai Indians
+Give Home Ground of team? 
+1
+Team added succesfully
+If you are done with ground registering press 0.
+2
+Give id of team? 
+2
+Give name of team? 
+CSK
+Give Home Ground of team? 
+2
+Team added succesfully
+If you are done with ground registering press 0.
+3
+Give id of team? 
+3
+Give name of team? 
+Gujrat Lions
+Give Home Ground of team? 
+4
+Team added succesfully
+If you are done with ground registering press 0.
+4
+Give id of team? 
+4
+Give name of team? 
+Punjab kings
+Give Home Ground of team? 
+3
+Team added succesfully
+If you are done with ground registering press 0.
+5
+Give id of team? 
+5
+Give name of team? 
+Pune warriors
+Give Home Ground of team? 
+3
+Team added succesfully
+If you are done with ground registering press 0.
+6
+Give id of team? 
+6
+Give name of team? 
+kolkata night riders
+Give Home Ground of team? 
+3
+Team added succesfully
+If you are done with ground registering press 0.
+7
+Give id of team? 
+7
+Give name of team? 
+sunrisers hyderabad
+Give Home Ground of team? 
+4
+Team added succesfully
+If you are done with ground registering press 0.
+8
+Give id of team? 
+8
+Give name of team? 
+Deccan Chargers
+Give Home Ground of team? 
+2
+Team added succesfully
+If you are done with ground registering press 0.
+9
+Give id of team? 
+9
+Give name of team? 
+Royal challengers Banglore
+Give Home Ground of team? 
+2
+Team added succesfully
+If you are done with ground registering press 0.
+0
+Teams added successfully now matches will be played.
+Now matches will start being played.
+null
+teamId : 1 teamGround : Ground id 1 Ground Name wankhede
+teamId : 2 teamGround : Ground id 2 Ground Name Chinna Swami
+teamId : 3 teamGround : Ground id 4 Ground Name Arun Jateliy Stadium
+teamId : 4 teamGround : Ground id 3 Ground Name Eden Gardens
+teamId : 5 teamGround : Ground id 3 Ground Name Eden Gardens
+teamId : 6 teamGround : Ground id 3 Ground Name Eden Gardens
+teamId : 7 teamGround : Ground id 4 Ground Name Arun Jateliy Stadium
+teamId : 8 teamGround : Ground id 2 Ground Name Chinna Swami
+teamId : 9 teamGround : Ground id 2 Ground Name Chinna Swami
+1  V/S 8  on Sun Feb 19 02:01:42 IST 2023 at wankhede
+2  V/S 7  on Sun Feb 19 02:01:42 IST 2023 at Chinna Swami
+3  V/S 6  on Mon Feb 20 02:01:42 IST 2023 at Arun Jateliy Stadium
+4  V/S 5  on Tue Feb 21 02:01:42 IST 2023 at Eden Gardens
+9  V/S 7  on Wed Feb 22 02:01:42 IST 2023 at Chinna Swami
+1  V/S 6  on Thu Feb 23 02:01:42 IST 2023 at wankhede
+2  V/S 5  on Fri Feb 24 02:01:42 IST 2023 at Chinna Swami
+3  V/S 4  on Sat Feb 25 02:01:42 IST 2023 at Arun Jateliy Stadium
+4  V/S 3  on Sat Feb 25 02:01:42 IST 2023 at Eden Gardens
+8  V/S 6  on Sun Feb 26 02:01:42 IST 2023 at Chinna Swami
+9  V/S 5  on Sun Feb 26 02:01:42 IST 2023 at Chinna Swami
+1  V/S 4  on Mon Feb 27 02:01:42 IST 2023 at wankhede
+2  V/S 3  on Tue Feb 28 02:01:42 IST 2023 at Chinna Swami
+7  V/S 5  on Wed Mar 01 02:01:42 IST 2023 at Arun Jateliy Stadium
+8  V/S 4  on Thu Mar 02 02:01:42 IST 2023 at Chinna Swami
+9  V/S 3  on Fri Mar 03 02:01:42 IST 2023 at Chinna Swami
+1  V/S 2  on Sat Mar 04 02:01:42 IST 2023 at wankhede
+2  V/S 1  on Sat Mar 04 02:01:42 IST 2023 at Chinna Swami
+6  V/S 4  on Sun Mar 05 02:01:42 IST 2023 at Eden Gardens
+7  V/S 3  on Sun Mar 05 02:01:42 IST 2023 at Arun Jateliy Stadium
+8  V/S 2  on Mon Mar 06 02:01:42 IST 2023 at Chinna Swami
+9  V/S 1  on Tue Mar 07 02:01:42 IST 2023 at Chinna Swami
+5  V/S 3  on Wed Mar 08 02:01:42 IST 2023 at Eden Gardens
+6  V/S 2  on Thu Mar 09 02:01:42 IST 2023 at Eden Gardens
+7  V/S 1  on Fri Mar 10 02:01:42 IST 2023 at Arun Jateliy Stadium
+8  V/S 9  on Sat Mar 11 02:01:42 IST 2023 at Chinna Swami
+9  V/S 8  on Sat Mar 11 02:01:42 IST 2023 at Chinna Swami
+4  V/S 2  on Sun Mar 12 02:01:42 IST 2023 at Eden Gardens
+5  V/S 1  on Sun Mar 12 02:01:42 IST 2023 at Eden Gardens
+6  V/S 9  on Mon Mar 13 02:01:42 IST 2023 at Eden Gardens
+7  V/S 8  on Tue Mar 14 02:01:42 IST 2023 at Arun Jateliy Stadium
+3  V/S 1  on Wed Mar 15 02:01:42 IST 2023 at Arun Jateliy Stadium
+4  V/S 9  on Thu Mar 16 02:01:42 IST 2023 at Eden Gardens
+5  V/S 8  on Fri Mar 17 02:01:42 IST 2023 at Eden Gardens
+6  V/S 7  on Sat Mar 18 02:01:42 IST 2023 at Eden Gardens
+7  V/S 6  on Sat Mar 18 02:01:42 IST 2023 at Arun Jateliy Stadium
+2  V/S 9  on Sun Mar 19 02:01:42 IST 2023 at Chinna Swami
+3  V/S 8  on Sun Mar 19 02:01:42 IST 2023 at Arun Jateliy Stadium
+4  V/S 7  on Mon Mar 20 02:01:42 IST 2023 at Eden Gardens
+5  V/S 6  on Tue Mar 21 02:01:42 IST 2023 at Eden Gardens
+1  V/S 8  on Wed Mar 22 02:01:42 IST 2023 at wankhede
+2  V/S 7  on Thu Mar 23 02:01:42 IST 2023 at Chinna Swami
+3  V/S 6  on Fri Mar 24 02:01:42 IST 2023 at Arun Jateliy Stadium
+4  V/S 5  on Sat Mar 25 02:01:42 IST 2023 at Eden Gardens
+5  V/S 4  on Sat Mar 25 02:01:42 IST 2023 at Eden Gardens
+9  V/S 7  on Sun Mar 26 02:01:42 IST 2023 at Chinna Swami
+1  V/S 6  on Sun Mar 26 02:01:42 IST 2023 at wankhede
+2  V/S 5  on Mon Mar 27 02:01:42 IST 2023 at Chinna Swami
+3  V/S 4  on Tue Mar 28 02:01:42 IST 2023 at Arun Jateliy Stadium
+8  V/S 6  on Wed Mar 29 02:01:42 IST 2023 at Chinna Swami
+9  V/S 5  on Thu Mar 30 02:01:42 IST 2023 at Chinna Swami
+1  V/S 4  on Fri Mar 31 02:01:42 IST 2023 at wankhede
+2  V/S 3  on Sat Apr 01 02:01:42 IST 2023 at Chinna Swami
+3  V/S 2  on Sat Apr 01 02:01:42 IST 2023 at Arun Jateliy Stadium
+7  V/S 5  on Sun Apr 02 02:01:42 IST 2023 at Arun Jateliy Stadium
+8  V/S 4  on Sun Apr 02 02:01:42 IST 2023 at Chinna Swami
+9  V/S 3  on Mon Apr 03 02:01:42 IST 2023 at Chinna Swami
+1  V/S 2  on Tue Apr 04 02:01:42 IST 2023 at wankhede
+6  V/S 4  on Wed Apr 05 02:01:42 IST 2023 at Eden Gardens
+7  V/S 3  on Thu Apr 06 02:01:42 IST 2023 at Arun Jateliy Stadium
+8  V/S 2  on Fri Apr 07 02:01:42 IST 2023 at Chinna Swami
+9  V/S 1  on Sat Apr 08 02:01:42 IST 2023 at Chinna Swami
+1  V/S 9  on Sat Apr 08 02:01:42 IST 2023 at wankhede
+5  V/S 3  on Sun Apr 09 02:01:42 IST 2023 at Eden Gardens
+6  V/S 2  on Sun Apr 09 02:01:42 IST 2023 at Eden Gardens
+7  V/S 1  on Mon Apr 10 02:01:42 IST 2023 at Arun Jateliy Stadium
+8  V/S 9  on Tue Apr 11 02:01:42 IST 2023 at Chinna Swami
+4  V/S 2  on Wed Apr 12 02:01:42 IST 2023 at Eden Gardens
+5  V/S 1  on Thu Apr 13 02:01:42 IST 2023 at Eden Gardens
+6  V/S 9  on Fri Apr 14 02:01:42 IST 2023 at Eden Gardens
+7  V/S 8  on Sat Apr 15 02:01:42 IST 2023 at Arun Jateliy Stadium
+8  V/S 7  on Sat Apr 15 02:01:42 IST 2023 at Chinna Swami
+3  V/S 1  on Sun Apr 16 02:01:42 IST 2023 at Arun Jateliy Stadium
+4  V/S 9  on Sun Apr 16 02:01:42 IST 2023 at Eden Gardens
+5  V/S 8  on Mon Apr 17 02:01:42 IST 2023 at Eden Gardens
+6  V/S 7  on Tue Apr 18 02:01:42 IST 2023 at Eden Gardens
+2  V/S 9  on Wed Apr 19 02:01:42 IST 2023 at Chinna Swami
+3  V/S 8  on Thu Apr 20 02:01:42 IST 2023 at Arun Jateliy Stadium
+4  V/S 7  on Fri Apr 21 02:01:42 IST 2023 at Eden Gardens
+5  V/S 6  on Sat Apr 22 02:01:42 IST 2023 at Eden Gardens
+6  V/S 5  on Sat Apr 22 02:01:42 IST 2023 at Eden Gardens
