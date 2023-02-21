@@ -1,2 +1,21 @@
 # AssesmentsWavemaker
 All the Assignments of wave maker internship are here 
+FrontEnd Assignments : 
+  1. HTML CSS 
+  2. Bootstrap
+  3. To Do Ap
+  
+  
+  Database Assignments
+    1. SQL into Task
+    2. Insurance DB Schema Task
+    3. Leave Management Schema
+  
+ Backend Assignments : 
+  1. Use Case task : Building
+  2. User Sort and Serch task
+  3. Voting System
+  4. IPL Schedule
+  5. Library JDBC
+  6. Calculator Servlets
+  7. Login servlets
