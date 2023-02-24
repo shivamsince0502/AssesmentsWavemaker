@@ -14,6 +14,16 @@ buttons.forEach((item) => {
       display.innerText = "Empty!";
       setTimeout(() => (display.innerText = ""), 2000);
     } else {
+      let op = ["/", "*", "+", "-"];
+      let st = item.id.toString();
+      let string = display.innerText.toString();
+      console.log(string);
+      let n = string.length;
+      let lastop = string[n-1];
+      if(op.includes(st) && op.includes(lastop)){
+        string = string.substring(0, n-1);
+        display.innerText = string;
+      }
       display.innerText += item.id;
     }
   };
