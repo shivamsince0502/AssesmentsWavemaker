@@ -19,3 +19,8 @@ FrontEnd Assignments :
   5. Library JDBC
   6. Calculator Servlets
   7. Login servlets
+  
+  
+  QA Assignments:
+    1. Mannual Testing for Amazon login flow
+    2. Automation Testing for Amazon login flow
