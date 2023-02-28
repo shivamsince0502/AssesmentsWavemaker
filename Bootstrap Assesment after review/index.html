@@ -19,18 +19,17 @@
     
     <Header>
       <nav class="navbar navbar-default">
+        <div class="container-fluid">
         <div class="container">
           <!-- Brand and toggle get grouped for better mobile display -->
           <div class="row">
-          <div class="navbar-header col-sm-4" >
+          <div class="navbar-header col-sm-3" >
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
               <span class="sr-only">Toggle navigation</span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
+
             </button>
             <a class="navbar-brand"  style="
-            color: white;" href="#">BRAND.</a>
+            color: white; margin-left: 33px;" href="#">BRAND.</a>
           </div>
       
           <!-- Collect the nav links, forms, and other content for toggling -->
@@ -48,29 +47,35 @@
                 <li><a class="links-nav" style="
     color: white;" href="#">Work</a></li>
               </ul>
+             
               
-            <!-- </div> -->
+            </div>
+            <div class="navbar-header col-sm-3" style="display: inline;"> 
+              <button style="margin-left: 70px;" class="btn nav navbar-nav navbar-right contact-btn-me"  >
+                Contact Now
+              </button>
+              </div>
             
           </div><!-- /.navbar-collapse -->
-          <button class="btn nav navbar-nav navbar-right contact-btn-me">
-            Contact Now
-          </button>
+          
         </div>
+        <!-- </div> -->
         </div><!-- /.container-fluid -->
       </nav>
+    </div>
     </Header>
   
     <section>
       <div class="first-section">
-        <div class="container">
+        <div style="margin-top: -13px;" class="container">
           <div class="row">
             <div class="col-sm-6 jumbotron ">
-              <h1 class="display-3 h1-brand">Branding business with relaible strategies.</h1>
-              <p class="row-lorem">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates dolorem sit in atque alias provident officiis voluptatibus ullam temporibus.</p>
-              <button type="button" class="btn btn-outline-secondary btn-vie-pro contact-btn-me">View Project</button>
+              <h1 class="display-3 h1-brand" style="font-size: 35px;">Branding business with relaible strategies.</h1>
+              <p class="row-lorem" style = "font-size: 13px;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates dolorem sit in atque alias provident officiis voluptatibus ullam temporibus.</p>
+              <button type="button" style="margin-left: 0px;" class="btn btn-outline-secondary btn-vie-pro contact-btn-me">View Project</button>
             </div>
             <div class="col-sm-6">
-              <img src="images/lady.png" class="rounded float-right img-fluid img-lady" alt="suit lady">
+              <img src="images/lady.png" class="rounded float-right img-fluid img-lady" style="margin-right: 57px;" alt="suit lady">
             </div>
           </div>
         </div>
@@ -89,19 +94,21 @@
       <div class="container">
         <div class="row">
           <div class="stp-plan col-sm-4">
-            <i class="fa-solid fa-square gly-box-1"></i>
+            <img src="images/icon-1-removebg-preview.png" class="gly-box-1" >
             <p class="h1 str-plan">Strategic Planning</p>
             <p>Lorem ipsum, dolor sit amet </p>
               <p>consectetur adipisicing elit. Qui!</p>
           </div>
           <div class="stp-plan col-sm-4">
-            <i class="fa fa-globe gly-star"></i>
+            <img src="images/icon-2-removebg-preview.png" class="gly-star" >
+           
             <p class="h1 str-plan">Trade & Stocks</p>
             <p>Lorem ipsum, dolor sit amet </p>
               <p>consectetur adipisicing elit. Qui!</p>
           </div>
           <div class="stp-plan col-sm-4">
-            <i class="fa-regular fa-star gly-Insy"></i>
+            <img src="images/icon-3-removebg-preview.png" class="gly-Insy" >
+           
             <p class="h1 str-plan">Audit & Insurance  </p>
             <p>Lorem ipsum, dolor sit amet </p>
               <p>consectetur adipisicing elit. Qui!</p>
@@ -246,7 +253,7 @@
         <div class="row">
           <input type="text" placeholder="Email" class="col-sm-5 email-inp">
           <input type="text" placeholder="Name" class="col-sm-5 name-inp" >
-          <button class="send-btn col-sm-2">Send</button>
+          <button class="send-btn btn btn-default btn-sm col-sm-2">Send</button>
         </div>
       </div>
      </div>
