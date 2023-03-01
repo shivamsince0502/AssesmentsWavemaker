@@ -19,8 +19,13 @@ FrontEnd Assignments :
   5. Library JDBC
   6. Calculator Servlets
   7. Login servlets
+  8. Banking Application Spring Task
   
   
   QA Assignments:
     1. Mannual Testing for Amazon login flow
     2. Automation Testing for Amazon login flow
+    
+  DevOps Assignment 
+    1. Use Jenkins to deploy war file to Tomcat : https://github.com/shivamsince0502/jenkins
+    
